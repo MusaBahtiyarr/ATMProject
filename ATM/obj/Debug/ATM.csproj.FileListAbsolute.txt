@@ -1,0 +1,8 @@
+C:\Users\bahti\source\repos\Projects\ATM\bin\Debug\ATM.exe.config
+C:\Users\bahti\source\repos\Projects\ATM\bin\Debug\ATM.exe
+C:\Users\bahti\source\repos\Projects\ATM\bin\Debug\ATM.pdb
+C:\Users\bahti\source\repos\Projects\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\bahti\source\repos\Projects\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahti\source\repos\Projects\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\bahti\source\repos\Projects\ATM\obj\Debug\ATM.exe
+C:\Users\bahti\source\repos\Projects\ATM\obj\Debug\ATM.pdb
